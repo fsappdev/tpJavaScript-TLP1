@@ -1,7 +1,7 @@
 // Ejercicios Arreglos
 
 // Crea una función llamada &quot;obtenerSuma&quot; que reciba un arreglo de números como parámetro y
-// devuelva la suma de todos los elementos del arreglo.
+// devuelva la suma de todos los elementos del arreglo. ✅
 
 function obtenerSuma(arregloNum){
     let resultado = 0;
@@ -18,7 +18,7 @@ function obtenerSuma(arregloNum){
   
 
 //   Implementa una función llamada &quot;obtenerPares&quot; que tome un arreglo de números como
-//   parámetro y devuelva un nuevo arreglo con solo los números pares del arreglo original.
+//   parámetro y devuelva un nuevo arreglo con solo los números pares del arreglo original.✅
 
 function obtenerPares(numeros){
     let numPares = [];
@@ -35,7 +35,7 @@ console.log(resultado);
 
 // Escribe una función llamada &quot;obtenerPromedioPonderado&quot; que reciba dos arreglos: uno con
 // las notas de los estudiantes y otro con los pesos correspondientes. La función debe calcular y
-// devolver el promedio ponderado de las notas.
+// devolver el promedio ponderado de las notas.✅
 
 function obtenerPromedioPonderado(notas, pesos) {
     if (notas.length !== pesos.length) {
@@ -63,7 +63,7 @@ function obtenerPromedioPonderado(notas, pesos) {
 
 
 //   Crea una función llamada &quot;obtenerMaximo&quot; que tome un arreglo de números como
-//   parámetro y devuelva el número máximo encontrado en el arreglo.
+//   parámetro y devuelva el número máximo encontrado en el arreglo.✅
 
 function obtenerMaximo(arregloNumeros){
     let numMax = 0;
