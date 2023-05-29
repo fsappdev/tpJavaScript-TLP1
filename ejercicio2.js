@@ -1,5 +1,5 @@
 // 2) Crear un programa que pida un numero al usuario y le devuelva un mensaje diciendo si
-// el número es primo o no.
+// el número es primo o no.✅
 
 function numPrimo(num){
     let contador = 0;
